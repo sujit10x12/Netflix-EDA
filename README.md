@@ -7,7 +7,7 @@
 
 This project explores and visualizes the **Netflix Movies and TV Shows dataset**, originally sourced from [Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows). The goal is to uncover patterns in Netflix's content library over time, including trends by genre, country, type, and more. The project also demonstrates data cleaning, EDA, and visualization techniques using Python.
 
-> ✅ **You can access the complete notebook here:** [🔗 View Jupyter Notebook](notebooks/netflix_eda.ipynb)
+> ✅ **You can access the complete notebook here:** [🔗 View Jupyter Notebook](/Netflix_Data_Exploration.ipynb)
 
 ---
 
