@@ -68,27 +68,25 @@ The goal of this project is to explore the characteristics and patterns of the N
 Insights or key findings for the questions mentioned above. Include relevant graphs and visualizations.
 
 ### 1. What is the total number of movies and TV shows available on Netflix?  
-
-   ![image](https://github.com/user-attachments/assets/599945b0-3af3-4889-88af-30d18958dfa7)
+   <img width="389" height="409" alt="image" src="https://github.com/user-attachments/assets/da7bdbfd-8aed-40c3-987e-8892eb51f407" />
    
 ### 2. How has the distribution of content (movies and TV shows) changed over time? For example, how many movies and TV shows were released in each year?
-   ![image](https://github.com/user-attachments/assets/0dc1fe2a-bb1d-4182-a026-8a22d0f220f6)
+   <img width="1160" height="545" alt="image" src="https://github.com/user-attachments/assets/aca5261f-83c4-43db-9a6d-edcaf317082b" />
 
 ### 3. What are the Number of Content Items in Each Genre?
-   ![image](https://github.com/user-attachments/assets/7425e4ec-6531-431b-a9a1-78e6784099ae)
+   <img width="1389" height="589" alt="image" src="https://github.com/user-attachments/assets/c7a3a932-26e6-4af2-83d8-bfeb86c883e4" />
 
 ### 4. Which country produces the most movies and TV shows on Netflix?  
-   ![image](https://github.com/user-attachments/assets/1a419a89-aa1c-4726-9900-c5f786b0ed4f)
+   <img width="1245" height="525" alt="image" src="https://github.com/user-attachments/assets/fee12cac-d286-4834-891c-2fe8869af245" />
    
 ### 5. What are the most popular ratings on Netflix?  
-   ![image](https://github.com/user-attachments/assets/703ae01a-1fb7-42b1-a06e-501141c9bcff)
+   <img width="1389" height="589" alt="image" src="https://github.com/user-attachments/assets/2c759772-2e87-4919-8bbd-4f2b215fdef0" />
 
 ### 6. Which Months have the Most Content Releases?  
-   ![image](https://github.com/user-attachments/assets/20340a24-da22-490d-9913-5e0f62ebd05d)
+   <img width="1160" height="595" alt="image" src="https://github.com/user-attachments/assets/dd28c8dd-95d3-4a02-9f4f-61598fc19c59" />
 
 ### 7. Which Days have the Most Content Releases?  
-   ![image](https://github.com/user-attachments/assets/f965c4d0-5618-4a48-8efc-0944c14b86bb)
-
+   <img width="1169" height="578" alt="image" src="https://github.com/user-attachments/assets/5da7e2c0-200d-4cd2-9b01-eca34f5abbcd" />
    
 ---
 
