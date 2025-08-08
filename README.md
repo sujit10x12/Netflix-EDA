@@ -1,5 +1,5 @@
 # 📊 Netflix Movies and TV Shows Data Analysis using Python
-![netflix](https://github.com/user-attachments/assets/0adde899-a024-467f-b899-c4fdcc8dc247)
+![netflix_logo](https://github.com/user-attachments/assets/fac8704e-0b48-4cf9-a636-54ba635e5059)
 
 ---
 
